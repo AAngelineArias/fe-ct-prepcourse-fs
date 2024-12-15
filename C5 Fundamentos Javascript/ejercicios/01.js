@@ -1,8 +1,8 @@
 // Crea una variable de tipo string.
 // Reemplaza el valor de null por el correspondiente.
 
-let miCadena = null; 
-miCadena = "Hola, henry"; 
-console.log(miCadena); 
+let nuevoString= null; 
+nuevoString = "Hola, henry"; 
+console.log(nuevoString); 
 
 module.exports = nuevoString;
