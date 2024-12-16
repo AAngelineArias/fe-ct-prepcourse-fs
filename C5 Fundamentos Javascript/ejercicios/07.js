@@ -4,8 +4,8 @@ function esTipoDato(valor) {
   // Por ejemplo: "string", "number", "boolean", "object", etc.
   // Tu código:
 
-  console.log(typeof valor);
+return (typeof valor);
 }
 
-esTipoDato(true)
+
 module.exports = esTipoDato;
