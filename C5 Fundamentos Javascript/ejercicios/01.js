@@ -3,6 +3,6 @@
 
 let nuevoString= null; 
 nuevoString = "Hola, henry"; 
-console.log(nuevoString); 
+return nuevoString; 
 
 module.exports = nuevoString;
